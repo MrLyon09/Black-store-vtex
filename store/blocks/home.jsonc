@@ -6,14 +6,7 @@
       "info-card#button-left"
     ]
   },
-  "rich-text": { 
-    "props": { 
-      "text": "Black Friday",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER",
-      "font": "t-heading-1"
-    }
-  },
+  
   
   "info-card#button-right": {
     "props": {
